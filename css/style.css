@@ -1,0 +1,40 @@
+table, th, td{
+				border-collapse: collapse;
+			    border-color: green;
+			    border-style: solid;
+			    border-width: 2px;
+			    }
+#uno{
+	background: #FAFAFA;
+}
+#dos{
+background: #F5F5F5;
+}
+#tres{
+background: #EEEEEE;
+}
+#cuatro{
+	background: #E0E0E0;
+}
+#cinco{
+	background: #BDBDBD;
+}
+#seis{
+	background: #9E9E9E;
+}
+#siete{
+	background: #757575;
+	color: #FAFAFA;
+}
+#ocho{
+	background: #616161;
+	color: #FAFAFA;
+}
+#nueve{
+	background: #424242;
+	color: #FAFAFA;
+}
+#diez{
+	background:	#212121;
+	color: #FAFAFA;
+}
